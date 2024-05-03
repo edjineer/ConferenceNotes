@@ -8,14 +8,14 @@
 - Rapid Response MOOCS: piloted by UofM for recent events
 - Developing Course content for modern times is a moving target
 - Justin Reich from MIT, "Failure to Disrupt"
-- "Our ability to create is a function of what we remember" - Natalie Miller, Cognitive Scientist with a great book
+- "Our ability to create is a function of what we remember" - Remembering and Forgetting in the Age of Technology: Teaching, Learning, and the Science of Memory in a Wired World, Book by Michelle D. Miller
 - Must be skillful and skeptical-Dr Smith
 - Treat AI by reviewing its responses as thuroughly as a thesis, your own paper. Pick it apart, or else you lose credibility when you say something foolish based on it
 - AI is both a tool for equity, and inequity
 
 ## OMSCS Through the Years: Panel Discussion
 
-**Date:** April 30, 2024
+**Date:** April 30, 2024  
 **Panelists:** Bobbie Lynn Eicher, Dustin Hooks, Kim Nguyen, Peter Graening, Nikita Burkes-Hale
 
 - "Getting Tilted" - Phrase from gaming reflecting the state where your performance drops because of fatigue. Go take a walk.
@@ -23,7 +23,7 @@
 
 ## Pathways to PHD
 
-**Date:** April 30, 2024
+**Date:** April 30, 2024  
 **Presenter:** Dr. Nick Lytle
 
 - Course 8903
@@ -35,6 +35,5 @@
 
 ## Look Up Later
 
-- Ask Lauren about the book on memory she recommended
 - Try out ChatGPT
 - IRC Nicknames
