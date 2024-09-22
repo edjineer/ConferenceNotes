@@ -1,0 +1,29 @@
+{
+    "cmake.sourceDirectory": "/home/edurie/GitHub/ConferenceNotes/CppAcademy2024/code-samples",
+    "files.associations": {
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#8e9736",
+        "activityBar.background": "#8e9736",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#a1d8dd",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#8e9736",
+        "statusBar.background": "#6b7229",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#8e9736",
+        "statusBarItem.remoteBackground": "#6b7229",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#6b7229",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#6b722999",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.remoteColor": "#6b7229"
+}
