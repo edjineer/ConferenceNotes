@@ -8,6 +8,11 @@
 * MISRA Common Weakness Categories - Published Regularly
 * PAS 8800 = AI in Automotive Working Group, Michael Wong repreents Canada in the working group
 * CppInsights
+* ISO 24643: Architecture for a distributed real-time access system
+* LFD121 Security Certification, CSSLP
+* Rust Follow Along Tutorial
+* Origins of the glorious "Egg Laying Wool Milk Pig"
+* P2900 (in context of contracts?), and P3097. Proposals for CppStandards Committee
 
 ### Questions for Future Rabbit Hole Explorations
 
@@ -25,6 +30,8 @@
   * Compiler's Ranking system for function resolution
   * Qualified and Unqualified Names
   * Structural Types
+  * std::expect
+  * static assert nesting
 
 ## Talks Attended
 
@@ -99,4 +106,28 @@ Hot Topics Discussed in this Panel:
 
 [Link to abstract](https://cppcon2024.sched.com/event/1gZgF/compile-time-validation)
 
-Topics covered, and those that I should look into afterwards: 
+Topics covered, and those that I should look into afterwards:
+
+* ISO 24643
+* Rust Vulnerabilities
+* Stateful Metaprogramming
+* Compiler Loopholes for Cpp23
+* Anonymous Lambdas
+* Meta State
+* std::expect, static assert nesting
+
+### "Contracts for Cpp" by Timur Doulmer
+
+[Link to abstract](https://cppcon2024.sched.com/event/1gZfV/contracts-for-c)
+
+* Introducing Contracts has been a challenge of creating an Egg Laying Wool Milk Pig
+* Lakos Rule
+* Heisenbugs
+* P3097
+
+### "Building Safe and Reliable Surgical Robotics with C++" by Milad Khaledyan and Alexander Drew
+
+[Link to abstract](https://cppcon2024.sched.com/event/1gZgI/building-safe-and-reliable-surgical-robotics-with-c)
+
+Takeaways: This was one of the best intros to medical device development that I've ever seen. I am excited to add this to Medtronic's onboarding materials.
+
