@@ -245,3 +245,17 @@ Large Code Base assessments
 Compilers
 
 - Clang AST
+- Write your own 
+- Open souce compilers
+- Qual type, declaration, expression, 
+- Etc: patch clang coroutines
+- Jenna Carouse: 
+- LLVM Meetings, they have a conference
+- Compuler, feature extensions
+- Every compile looks diffrent 
+- Settle with one compiler 
+- Write an extension for clangtidy
+  - Enforce coding guidelines
+  - Clang tooling 
+  - Clang to compile, add a tool, make it work elsewhere 
+  - Pull from trunk 
