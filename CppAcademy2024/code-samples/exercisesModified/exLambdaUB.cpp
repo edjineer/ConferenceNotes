@@ -13,4 +13,6 @@ int main()
 {
   const auto bad = makeLambda();
   std::cout << bad() << '\n';
+  //Problem = Passing back by reference, and the scope will destroy it
+  //Fix it by passing by value 
 }

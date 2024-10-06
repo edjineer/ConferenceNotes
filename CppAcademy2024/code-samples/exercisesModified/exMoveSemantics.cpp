@@ -18,7 +18,8 @@ public:
   , data_{new int[other.len_]}
   {
     std::cout << "Copy construction of " << other.len_ << " elements\n";
-    std::copy(other.data_, other.data_ + len_, data_);
+    // std::copy(other.data_, other.data_ + len_, data_);
+    std::move();
   }
 
   BigArray& operator=(const BigArray& other)
@@ -29,7 +30,7 @@ public:
 
       len_  = other.len_;
       data_ = new int[len_];
-      std::copy(other.data_, other.data_ + len_, data_);
+      // std::copy(other.data_, other.data_ + len_, data_);
     }
 
     return *this;
