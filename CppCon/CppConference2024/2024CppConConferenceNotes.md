@@ -5,7 +5,7 @@
 * What every programmer should know about memory by Ulrich Realper
 * Works from SG21
 * CppCore Guidelines
-* MISRA Common Weakness Categories - Published Regularly
+* MISRA Common Weakness Categories - Published Regularly (or Mitre?)
 * PAS 8800 = AI in Automotive Working Group, Michael Wong repreents Canada in the working group
 * CppInsights
 * ISO 24643: Architecture for a distributed real-time access system
@@ -13,6 +13,14 @@
 * Rust Follow Along Tutorial
 * Origins of the glorious "Egg Laying Wool Milk Pig"
 * P2900 (in context of contracts?), and P3097. Proposals for CppStandards Committee
+* Maude FDA Failure Analysis
+* AAMI for Agile
+* TR80002
+* Medical Device HQ
+* Bar Group 2018 Embedded Systems
+* https://bivector.net/doc.html
+* https://articles.emptycrate.com/idocpp Jason Turner website
+* Society of Surgical Robotics
 
 ### Questions for Future Rabbit Hole Explorations
 
@@ -32,6 +40,21 @@
   * Structural Types
   * std::expect
   * static assert nesting
+  * Zero Tolerance policy cppreference
+* External Resources to play with
+  * https://quick-bench.com/
+  * Clang format file
+  * Clang formatting applied only on diffs
+* Misc:
+  * Hilbert Curve 
+  * Hilbert Matrix
+  * Hunkel Matrix 
+  * Ganja js
+
+## Highly Commended Talks I did not attend
+
+* [The Beman Project: Bringing Standard Libraries to the next level](https://cppcon2024.sched.com/event/1gZgO/the-beman-project-bringing-standard-libraries-to-the-next-level)
+* [C++ Exceptions for Smaller Firmware](https://cppcon2024.sched.com/event/1i0yJ/c-exceptions-for-smaller-firmware) Youtube Link: https://www.youtube.com/watch?v=bY2FlayomlE
 
 ## Talks Attended
 
@@ -131,3 +154,21 @@ Topics covered, and those that I should look into afterwards:
 
 Takeaways: This was one of the best intros to medical device development that I've ever seen. I am excited to add this to Medtronic's onboarding materials.
 
+Notes:
+
+* Mitre Common Weakness enumeration
+* Maude FDA Failure Analysis
+* AAMI for Agile
+* Medical Device HQ Site for resources
+* Bar Group 2018 Embedded Systems 
+* Functional Safety, Correctness, and security
+* Modular designs: Less coupling
+* Enforced Processing and tooling
+* Open SSF (Open source security framework)
+* Guard Rails
+* Look for allocator in STL dynamic memory allocators
+* Quick-bench.com
+
+### impport CMake; // Mastering C++ Modules
+
+[Link to Abstract](https://cppcon2024.sched.com/event/1gZe6/import-cmake-mastering-c-modules)
