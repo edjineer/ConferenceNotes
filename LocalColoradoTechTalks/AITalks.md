@@ -10,8 +10,8 @@ Hosted By: Rob Taylor and Vince Allen of Carstens, Allen, and Gourley LLP
 
 * Integrate Compliance as part of the design process
 * Notice of Disclosure is necessary for integrating AI Models
-* Myths of AI Debunked
-  * Anonymizing data is not enough
+* Debunking Myths of AI
+  * Anonymizing data is not enough to justify using data without user consent
   * Data lakes are not good to have around; they could be violating user rights by being outside the license of the original intent
 * State of AI Regulation Laws
   * EU AI Act: Europe is taking a firm, prescriptive, paternalistic approach to AI laws
