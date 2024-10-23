@@ -6,7 +6,7 @@
 
 Hosted By: Rob Taylor and Vince Allen of Carstens, Allen, and Gourley LLP
 
-### General Takeaways
+#### General Takeaways
 
 * Integrate Compliance as part of the design process
 * Notice of Disclosure is necessary for integrating AI Models
@@ -24,7 +24,7 @@ Hosted By: Rob Taylor and Vince Allen of Carstens, Allen, and Gourley LLP
 * Governement representatives are going after bold claims
 * Prepare by having detailed, defensible, audit trails
 
-### Interesting Legal Cases
+#### Interesting Legal Cases
 
 * [Patagonia](https://www.cxtoday.com/contact-centre/talkdesk-customer-patagonia-sued-over-its-use-of-contact-center-ai/) recorded and trained AI on employee HR calls without their consent. "This call may be recorded" message was not sufficient
 * [GM Financial](https://www.justice.gov/opa/pr/gm-financial-pay-over-35-million-resolve-servicemembers-civil-relief-act-claims): Collected driving data of Onstar users with the intent of selling it to insurance companies. Data was not anonymized
@@ -34,7 +34,7 @@ Hosted By: Rob Taylor and Vince Allen of Carstens, Allen, and Gourley LLP
   * Opens up an interesting ownership question: who is the artist? Is AI a tool like photoshop? His work is unreproducible due to the nature of AI's non-determinism
   * Similar discussion to the [Nike Selfie Monkey](https://www.npr.org/sections/thetwo-way/2017/09/12/550417823/-animal-rights-advocates-photographer-compromise-over-ownership-of-monkey-selfie): The camera is the tool, the photographer is the artist. But when a monkey takes the photo, who owns the image or can file a copyright claim for it? PETA sued on behalf of the monkey, It was ruled that only humans can have copyright rights
 
-### Further Reading, Rabbit Holes, and Resources
+#### Further Reading, Rabbit Holes, and Resources
 
 * MIT Study 777
 * incidentdatabase.ai is a click-baity list of AI Compliance/Legal incidents
