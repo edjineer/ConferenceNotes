@@ -33,8 +33,8 @@ Date: November 12, 2024
   * 2013 = Beginning
   * 2022 = FEDORA = Omnibus, consolidations and appropriations actions
     * Introduces cybersecurity of MedDevice
-  * Premarket cybersecurity Guidance 
-  * Requires a manufacturer to provide assurance that 
+  * Premarket cybersecurity Guidance
+  * Requires a manufacturer to provide assurance that
   * Premarket monitoring plan for cyber
   * Statute 5243b and 4 = Software Bill of Materials SBOM
 * SBOM
