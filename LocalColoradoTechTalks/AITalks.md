@@ -51,3 +51,77 @@ Hosted By: Rob Taylor and Vince Allen of Carstens, Allen, and Gourley LLP
 * Hallucination rates of models
 * Gartner is a good resource for compiled statistics
 * Emotion Sentiment Analysis
+
+
+## Denver AI Group Meetup
+
+### Jan 21 2025 Workshop
+
+#### Notes
+
+* Specific Tools for Agentic AI
+  * Tip: Pick tool that is actively being maintained
+  * microsoft autogen
+  * llama index workflow
+  * sglang
+  * dsp
+  * swarm
+  * langraph
+    * Can use langraph as a dependency
+    * Still Python libraries
+    * langgraph RAG use case
+  * langchain = block based
+  * langsmith
+  * huggingface for open source API for AI, need a GPU to do it
+  * Docker: can be a way to get the UI to work
+  * ollama is open source
+  * Tavily for python searching
+  * Jupyter workbook for prototyping
+  * Alpha Vantage
+* Strategies
+  * Human in the loop
+  * Prompt Routing
+  * Decision trees for what the agent has to work through
+  * Prompt Input -> Switch to tokens -> Throw into LLM
+  * 2 types of agentic apps
+* Resources to get good
+  * Langchain course on Coursera
+  * Ask GPT on how it works, interview it
+* Guiding Questions for Product Development from Erik P.
+  * What are the stimuli? (e.g. google alerts)
+  * What data am I going to want to access? (e.g. SEC filings, stock prices)
+  * What do I want to learn from that data?
+  * What do I want to do with what I learn?
+* Lessons Learned from the resident experts
+  * Every use case that relies on LLMs as the agent is a complex one because it is so bad at it
+  * LLM call is more edpensive than running a script
+  * DAGs are bad at handling replanning
+  * Hardest part is the data access and toolset
+
+#### Agentic Stock Market Use Case Notes
+
+* Stimulus: access data, SSE filngs, what do you want to get out of it
+* Agent step in a chain of a more complex workflow
+* What do you want to learn
+* Good value play, undervalued, overvalued
+* RAG Workflow: fgather a bunch of data, put into the context window, see if there is a langchain plugin for bloomberg
+* Langgraph, these are tools I want to give access to
+* Option picker
+
+Agentic Use Case
+
+* AI app that takes an action in the real world (Ex: Buy and sell a stock), provide a use case
+  * Can stand up a technical analysis toolkit
+* Human Assistant thing = step 1 of an agent
+  * Analyze these, see if there is a buy, sell, sell short thing
+* Uses model as a reasoning model
+* AutoGPT failed asa loop
+* DAGs, directed acyclic graphs
+* Microsoft Autogen and llama index are event driven agentic workflows
+* Chron Job that runs
+* Chain vs agent that takes action
+* Bounding what GPT is doing, really specializing it
+* What is stimulus:
+  * News story on a specific stock or a category
+* Example: sending email would be the agentic action, could do it at the end automatically
+* Chain is analagous to an ETL
