@@ -1,5 +1,7 @@
 # CppCon 2024 Full Conference Notes
 
+## Look Up Later
+
 ## List of topics to revisit
 
 * Modern C++ Design by Andre Alexandrescu
@@ -10,6 +12,8 @@
 * Youtube recommendation: "C++ STL Write an iterator from scratch, modern C++ with Mike" Mike Shah
 * niohmann library for json
 * Patrice Roy Memory Management Talks
+* SW License 101
+* Dietmar Kuhl Creating a Sender/Reciever HTTP talk on networking for Cpp
 
 ## Almost Always Vector: Kevin Carpenter
 
@@ -108,3 +112,33 @@ Notes:
   * GPUs: similar evolution to constexpr
   * Reflection is stepwise as well [12:00]
 
+## The Beman Project: Bringing C++ Standard Libraries to the Next Level
+
+Presented by: David Sankel
+
+[Link to Talk](https://www.youtube.com/watch?v=f4JinCpcQOg&t=95s)
+
+Notes:
+
+* Where does the standard come from?
+  * MS Used to do its own thing
+  * Joining the Standard Committee
+    * Costs some money, join on own election, fly to meetings
+    * Decisions are made via consensus
+  * Proposal Timeline
+    * Study Group
+    * Library Evolution Incubarot
+    * Library Evolution
+    * Library review (legal-ese)
+    * Plenary
+    * Working Draft
+* Beman Project
+  * Mission: Support efficient design and adoption through implementation, user feedback, technical expertise
+  * Named after Beman Dawes
+  * Core Principles
+    * High Quality, Production Ready, Industry Standard Technology, Welcoming and inclusive community
+  * License discussion for a Beman Library
+* Example: beman.optional26, beman.example
+* Lit discussions to go and learn from it
+* Mentorship
+  * Look for "Good first issue"
